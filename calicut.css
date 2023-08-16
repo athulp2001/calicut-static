@@ -1,0 +1,1604 @@
+body{
+    margin: 0;
+}
+.mainhead{
+    width: 100%;
+    height: 100px;
+    background-color:  #0c426f;
+ 
+
+}
+.header{
+    display: flex;
+    float: left;
+
+}
+input{
+    border-color: #042c4d;
+    border-width: 0px;
+    background-color: #2e6089;
+    te;
+}
+
+.search{
+
+margin-left: -210px;
+    margin-top: 40px;
+    width: 160px;
+    height: 24px;
+
+    
+}
+.searching:hover{
+    background-color: rgb(249, 169, 21);
+}
+.date{
+   margin-left: 540px;
+    font-family: Arial;
+    color:  #76a2c6;
+    font-size: 14px;
+    width: 200px;
+}
+.searching{
+   
+    background-color: #042c4d;
+    padding-left: 5px;
+    width: 28px;
+    height: 26px;
+    margin-top: 40px;
+}
+.mainhome{
+   
+    background-color:  #0c426f;
+    width: 100%;
+    height: 50px;
+
+}
+.home{
+    border-top-color: #6588a5;
+    border-left-color: rgb(154, 158, 163);
+    border-right-color: rgb(233, 236, 240);
+    border-width: 1px;
+    font-family: Arial;
+    color: white;
+    font-weight: bold;
+    margin-left: 80px;
+    height: 100%;
+    width: 80px;
+    background-color: #084c84;
+
+}
+
+.home:hover{
+    cursor: pointer;
+    background-color: #266294;
+}
+.home:active{
+    border-top-width: 3px;
+    border-top-color:rgb(249, 169, 21)
+}
+
+
+.about{
+    border-top-color: #6588a5;
+    border-left-color: rgb(154, 158, 163);
+    border-right-color: rgb(233, 236, 240);
+    border-width: 1px;
+    margin-left: -5px;
+    font-family: Arial;
+    color: white;
+    font-weight: bold;
+    height: 100%;
+    width: 85px;
+    background-color: #084c84;
+    
+}
+
+.about:hover{
+    cursor: pointer;
+    background-color: #266294;
+
+}
+.about:active{
+    border-top-width: 3px;
+    border-top-color:rgb(249, 169, 21)
+}
+.theuniversity{
+    border-top-color: #6588a5;
+    border-left-color: rgb(154, 158, 163);
+    border-right-color: rgb(233, 236, 240);
+    border-width: 1px;
+    margin-left: -5px;
+    font-family: Arial;
+    color: white;
+    font-weight: bold;
+    height: 100%;
+    width: 160px;
+    background-color: #084c84;
+
+}
+
+.theuniversity:hover{
+    cursor: pointer;
+    background-color: #266294;
+}
+.theuniversity:active{
+    border-top-width: 3px;
+    border-top-color:rgb(249, 169, 21)
+}
+
+
+.academis{
+    border-top-color: #6588a5;
+    border-left-color: rgb(154, 158, 163);
+    border-right-color: rgb(233, 236, 240);
+    border-width: 1px;
+    margin-left: -5px;
+    font-family: Arial;
+    color: white;
+    font-weight: bold;
+    height: 100%;
+    width: 110px;
+    background-color: #084c84;
+
+}
+
+.academis:hover{
+    cursor: pointer;
+    background-color: #266294;
+}
+.academis:active{
+    border-top-width: 3px;
+    border-top-color:rgb(249, 169, 21)
+}
+
+
+.naac{
+    border-top-color: #6588a5;
+    border-left-color: rgb(154, 158, 163);
+    border-right-color: rgb(233, 236, 240);
+    border-width: 1px;
+    margin-left: -5px;
+    font-family: Arial;
+    color: white;
+    font-weight: bold;
+    height: 100%;
+    width: 80px;
+    background-color: #084c84;
+
+}
+
+.naac:hover{
+    cursor: pointer;
+    background-color: #266294;
+
+}
+.naac:active{
+
+    border-top-width: 3px;
+    border-top-color:rgb(249, 169, 21)
+}
+.iqac{
+    border-top-color: #6588a5;
+    border-left-color: rgb(154, 158, 163);
+    border-right-color: rgb(233, 236, 240);
+    border-width: 1px;
+    margin-left: -5px;
+    font-family: Arial;
+    color: white;
+    font-weight: bold;
+    height: 100%;
+    width: 75px;
+    background-color: #084c84;
+
+}
+
+.iqac:hover{
+    cursor: pointer;
+    background-color: #266294;
+
+}
+.iqac:active{
+    border-top-width: 3px;
+    border-top-color:rgb(249, 169, 21)
+
+}
+
+.studenzone{
+    border-top-color: #6588a5;
+    border-left-color: rgb(154, 158, 163);
+    border-right-color: rgb(233, 236, 240);
+    border-width: 1px;
+    margin-left: -5px;
+    font-family: Arial;
+    color: white;
+    font-weight: bold;
+    height: 100%;
+    width: 160px;
+    background-color: #084c84;
+
+}
+.studenzone:hover{
+
+    cursor: pointer;
+    background-color: #266294;
+}
+.studenzone:active{
+
+    border-top-width: 3px;
+    border-top-color:rgb(249, 169, 21)
+}
+
+.info{
+    border-top-color: #6588a5;
+    border-left-color: rgb(154, 158, 163);
+    border-right-color: rgb(233, 236, 240);
+    border-width: 1px;
+    margin-left: -5px;
+    font-family: Arial;
+    color: white;
+    font-weight: bold;
+    height: 100%;
+    width: 120px;
+    background-color: #084c84;
+}
+.info:hover{
+
+    cursor: pointer;
+    background-color: #266294;
+}
+.info:active{
+    border-top-width: 3px;
+    border-top-color:rgb(249, 169, 21)
+
+}
+    
+
+.contact{
+    border-top-color: #6588a5;
+    border-left-color: rgb(132, 133, 134);
+    border-right-color: rgb(94, 96, 99);
+    border-width: 1px;
+    margin-left: -5px;
+    font-family: Arial;
+    color: white;
+    font-weight: bold;
+    height: 100%;
+    width: 120px;
+    background-color: #084c84;
+
+}
+.contact:hover{
+
+    cursor: pointer;
+    background-color: #266294;
+}
+.contact:active{
+    border-top-width: 3px;
+    border-top-color:rgb(249, 169, 21)
+
+}
+
+
+
+
+
+
+
+.education{
+display: flex;
+width: 100%;
+  
+}
+.admission{
+
+    margin-left: 10%;
+    width   : 20%;
+    height: 200px;
+   
+    
+    
+}
+.admission:hover{
+    cursor: pointer;
+}
+
+.examination{
+
+  margin-left: 18px;
+    width   : 20%;
+    height: 200px;
+}
+
+
+.examination:hover{
+    cursor: pointer;
+}
+.research{
+
+    margin-left: 18px;
+    width   : 20%;
+    height: 200px;
+   
+
+}
+.research:hover{
+    cursor: pointer;
+}
+.distance{
+
+    margin-left: 18px;
+    width   : 20%;
+    height: 200px;
+  
+
+}
+.distance:hover{
+    cursor: pointer;
+}
+
+.addmisson1{
+    color: rgb(101, 94, 94);
+    margin-left: 13px;
+    font-size: 13px;
+    font-family: Arial;
+    font-weight: bold;
+
+}
+.addmisson2{
+    color: rgb(139, 137, 137);
+    margin-left: 30px;
+    font-size: 13px;
+    font-family: Arial;
+   
+}
+.examination1{
+    color: rgb(101, 94, 94);
+    margin-left: 39px;
+    font-size: 13px;
+    font-family: Arial;
+    font-weight: bold;
+
+}
+.examination2{
+    color: rgb(139, 137, 137);
+    margin-left: 10px;
+    font-size: 13px;
+    font-family: Arial;
+
+}
+.research1{
+    color: rgb(101, 94, 94);
+    margin-left: 17px;
+    font-size: 13px;
+    font-family: Arial;
+    font-weight: bold;
+
+}
+.research2{
+    color: rgb(139, 137, 137);
+    margin-left: 60px;
+    font-size: 13px;
+    font-family: Arial;
+}
+.distance1{
+    color: rgb(101, 94, 94);
+    margin-left: 37px;
+    font-size: 13px;
+    font-family: Arial;
+    font-weight: bold;
+}
+.distance2{
+    color: rgb(139, 137, 137);
+    margin-left: 35px;
+    font-size: 13px;
+    font-family: Arial;
+}
+
+.addmisson1:hover{
+    cursor: pointer;
+    color: #084c84;
+}
+.addmisson2:hover{
+    cursor: pointer;
+    color: #084c84;
+}
+
+.examination1:hover{
+    cursor: pointer;
+    color: #084c84;
+}
+.examination2:hover{
+    cursor: pointer;
+    color: #084c84;  
+    
+}
+.research1:hover{
+    cursor: pointer;
+    color: #084c84;
+}
+.research2:hover{
+    cursor: pointer;
+    color: #084c84;  
+}
+.distance1:hover{
+    cursor: pointer;
+    color: #084c84;
+}
+.distance2:hover{
+    cursor: pointer;
+    color: #084c84;  
+
+}
+
+.line{
+    margin-left: 8%;
+  
+   border-bottom: solid;
+   border-color: rgb(237, 237, 237);
+    width: 88%;
+    height: 40px;
+}
+
+
+
+
+
+.methode1{
+    margin-top: 25px;
+    width: 100%;
+    display: flex;
+    float: left;
+}
+.methode2{
+    margin-top: 15px;
+    width: 100%;
+    display: flex;
+    float: left;
+}
+.dept{
+    margin-left: 10%;
+    width   : 20%;
+}
+
+.epayment{
+    margin-left: 15px;
+
+    width   : 20%;
+}
+
+.student{
+    margin-left: 15px;
+    width   : 20%;
+}
+
+
+.cert{
+    margin-left: 15px;  
+    width   : 20%;
+}
+
+.coollport{
+    margin-left: 10%;
+    width   : 20%;
+   
+    
+}
+
+.coll{
+    margin-left: 15px;
+    width   : 20%;
+    
+}
+
+.sevega{
+    margin-left: 15px;
+    width   : 20%;
+    
+}
+
+.certverf{
+    margin-left: 15px;
+    width   : 20%;
+    
+}
+.dept:hover{
+    cursor: pointer;
+}
+.epayment:hover{
+    cursor: pointer;
+}
+.cert:hover{
+    cursor: pointer;
+}
+.student:hover{
+    cursor: pointer;
+}
+.coollporthover{
+    cursor: pointer;
+}
+.col:hover{
+    cursor: pointer;
+}
+.sevega:hover{
+    cursor: pointer;
+}
+.certverf:hover{
+    cursor: pointer;
+}
+
+.line2{
+margin-left: 8%;
+    border-bottom: solid;
+    border-width: 2px;
+    border-color: rgb(237, 235, 235);
+    
+    margin-top: 130px;
+    width: 87%;
+    
+    height: 70px;
+}
+
+
+
+
+
+
+
+
+
+.resources{
+    margin-left: 7%;
+    width: 22%;
+    display: flex;
+    float: left;
+}
+
+.resources ul li{
+   font-family: arial;
+    list-style-type:none;
+}
+.resources1{
+    padding-top: 9px;
+   text-align: center;
+    margin-top: 40px;
+    color: #d67901;
+    font-family:arial ;
+    font-weight: bold;
+    background-color:#f6f6f6;
+    border: solid;
+    border-color:#cfcfcf;
+    height: 30px;
+    border-width: 1px;
+  
+}
+
+.nirf{
+    padding-left: 5px;
+   padding-top: 9px;
+ 
+   font-size: 14px;
+    color: #666;
+    border: solid;
+    border-color:#cfcfcf;
+    height: 30px;
+    border-width: 1px;
+}
+.nirf:hover{
+    cursor: pointer;
+    color: #084c84;
+     
+ 
+}
+.swayam{
+    padding-left: 5px;
+    padding-top: 9px;
+    font-size: 14px;
+    color: #666;
+    border: solid;
+    border-color:#cfcfcf;
+    height: 30px;
+    border-width: 1px;
+}
+.swayam:hover{
+    cursor: pointer;
+    color: #084c84;
+}
+.cu{ padding-top: 9px;
+    font-size: 14px;
+    color: #666;
+    border: solid;
+    border-color:#cfcfcf;
+    height: 30px;
+    border-width: 1px;
+    padding-left: 5px;
+}
+.cu:hover{
+    cursor: pointer;
+    color: #084c84;
+}
+.application{ padding-top: 9px;
+    font-size: 14px;
+    color: #666;
+    border: solid;
+    border-color:#cfcfcf;
+    height: 30px;
+    border-width: 1px;
+    padding-left: 5px;
+}
+.application:hover{
+    cursor: pointer;
+    color: #084c84;
+}
+.fee{ padding-top: 9px;
+    font-size: 14px;
+    color: #666;
+    border: solid;
+    border-color:#cfcfcf;
+    height: 30px;
+    border-width: 1px;
+    padding-left: 5px;
+}
+.fee:hover{
+    cursor: pointer;
+    color: #084c84;
+}
+.syllabus{ padding-top: 9px;
+    font-size: 14px;
+    color: #666;
+    border: solid;
+    border-color:#cfcfcf;
+    height: 30px;
+    border-width: 1px;
+    padding-left: 5px;
+}
+.syllabus:hover{
+    cursor: pointer;
+    color: #084c84;
+}
+.act{ padding-top: 9px;
+    font-size: 14px;
+    color: #666;
+    border: solid;
+    border-color:#cfcfcf;
+    height: 30px;
+    border-width: 1px;
+    padding-left: 5px;
+}
+.act:hover{
+    cursor: pointer;
+    color: #084c84;
+}
+.course{ padding-top: 9px;
+    font-size: 14px;
+    color: #666;
+    border: solid;
+    border-color:#cfcfcf;
+    height: 30px;
+    border-width: 1px;
+    padding-left: 5px;
+}
+.course:hover{
+    cursor: pointer;
+    color: #084c84;
+}
+.university{ padding-top: 9px;
+    font-size: 14px;
+    color: #666;
+    border: solid;
+    border-color:#cfcfcf;
+    height: 30px;
+    border-width: 1px;
+    padding-left: 5px;
+}
+.university:hover{
+    cursor: pointer;
+    color: #084c84;
+}
+.kerala{ padding-top: 9px;
+    font-size: 14px;
+    color: #666;
+    border: solid;
+    border-color:#cfcfcf;
+    height: 30px;
+    border-width: 1px;
+    padding-left: 5px;
+}
+.tunjan{ padding-top: 9px;
+    font-size: 14px;
+    color: #666;
+    border: solid;
+    border-color:#cfcfcf;
+    height: 30px;
+    border-width: 1px;
+    padding-left: 5px;
+}
+.tunjan:hover{
+    cursor: pointer;
+    color: #084c84;
+}
+.placement{ padding-top: 9px;
+    font-size: 14px;
+    color: #666;
+    border: solid;
+    border-color:#cfcfcf;
+    height: 30px;
+    border-width: 1px;
+    padding-left: 5px;
+}
+.placement:hover{
+    cursor: pointer;
+    color: #084c84;
+}
+
+.pla{
+    padding-top: 99.3px;
+    font-size: 14px;
+    color:white;
+    border: solid;
+    border-color:#cfcfcf;
+    height: 30px;
+    border-width: 1px;
+    padding-left: 5px;
+
+}
+.pla:hover{
+    cursor: pointer;
+   
+}
+.announcements{
+margin-left: -30px;
+    width: 65%;
+    font-family: arial;
+    font-size: 14px;
+}
+.announcements ul li{
+    font-family: arial;
+     list-style-type:none;
+ }
+
+ .announcement{
+    
+    width: 70%;
+    padding-top: 13px;
+    padding-bottom: 11px;
+    text-align: center;
+     margin-top: 56px;
+     color: #d67901;
+     font-family:arial ;
+     font-weight: bold;
+     background-color:#f6f6f6;
+     border: solid;
+     border-color:#cfcfcf;
+ 
+     border-width: 1px;
+    
+
+ }
+ .allnews{
+    font-size: 12px;
+  color: #042c4d;
+  font-weight: 100;
+ }
+ .provisional{
+    
+    width: 69.4%;
+    font-weight: bold;
+    font-size: 14px;
+    color: #0d64ae;
+    border: solid;
+    border-color:#cfcfcf;
+    height: 30px;
+    padding-top: 20px;
+    padding-bottom: 6px;
+    border-width: 1px;
+    padding-left: 5px;
+ }
+ .provisional:hover{
+    cursor: pointer;
+   
+}
+ .application1{
+    
+    width: 69.4%;
+    font-weight: bold;
+  
+    font-size: 14px;
+    color: #0d64ae;
+    border: solid;
+    border-color:#cfcfcf;
+    border-width: 1px;
+    padding-left: 5px;
+    height: 30px;
+    padding-top: 23px;
+    padding-bottom: 30px;
+ }
+ .application1:hover{
+    cursor: pointer;
+   
+}
+ .application2{
+    
+    width: 69.4%;
+    font-weight: bold;
+    padding-top: 9px;
+    font-size: 14px;
+    color: #0d64ae;
+    border: solid;
+    border-color:#cfcfcf;
+    height: 30px;
+    border-width: 1px;
+    padding-left: 5px;
+    padding-top: 23px;
+    padding-bottom: 30px;
+ }
+ .application2:hover{
+    cursor: pointer;
+   
+}
+ .application3{
+ 
+    width: 69.4%;
+    font-weight: bold;
+    padding-top: 9px;
+    font-size: 14px;
+    color: #0d64ae;
+    border: solid;
+    border-color:#cfcfcf;
+    height: 30px;
+    border-width: 1px;
+    padding-left: 5px;
+    padding-top: 23px;
+    padding-bottom: 30px;
+ }
+ .application3:hover{
+    cursor: pointer;
+   
+}
+.application4{
+   
+    width: 69.4%;
+    font-weight: bold;
+    padding-top: 9px;
+    font-size: 14px;
+    color: #0d64ae;
+    border: solid;
+    border-color:#cfcfcf;
+    height: 30px;
+    border-width: 1px;
+    padding-left: 5px;
+    padding-top: 23px;
+    padding-bottom: 30px;
+ }
+ .application4:hover{
+    cursor: pointer;
+   
+}
+ .memo1{
+   
+    width: 69.4%;
+    font-weight: bold;
+    padding-top: 9px;
+    font-size: 14px;
+    color: #0d64ae;
+    border: solid;
+    border-color:#cfcfcf;
+    height: 30px;
+    border-width: 1px;
+    padding-left: 5px;
+    padding-top: 23px;
+    padding-bottom: 30px;
+ }
+ .memo1:hover{
+    cursor: pointer;
+   
+}
+ .yoga1{
+   
+    width: 69.4%;
+    font-weight: bold;
+    padding-top: 9px;
+    font-size: 14px;
+    color: #0d64ae;
+    border: solid;
+    border-color:#cfcfcf;
+    height: 30px;
+    border-width: 1px;
+    padding-left: 5px;
+    padding-top: 19px;
+    
+ }
+ .yoga1:hover{
+    cursor: pointer;
+   
+}
+ .application5{
+    
+    width: 69.4%;
+    font-weight: bold;
+    padding-top: 9px;
+    font-size: 14px;
+    color: #0d64ae;
+    border: solid;
+    border-color:#cfcfcf;
+    height: 30px;
+    border-width: 1px;
+    padding-left: 5px;
+    padding-top: 23px;
+    padding-bottom: 30px;
+ }
+ .application5:hover{
+    cursor: pointer;
+   
+}
+ 
+ .quickmain1 ul li{
+    font-family: arial;
+    list-style-type:none;
+ }
+.quickmain1{
+    margin-top: 15.6px;
+   margin-left: -260px;
+    width: 22%;
+    
+ }
+ .quicklink{
+   
+ }
+ .quick{
+    padding-top: 9px;
+    text-align: center;
+     margin-top: 40px;
+     color: #d67901;
+     font-family:arial ;
+     font-weight: bold;
+     background-color:#f6f6f6;
+     border: solid;
+     border-color:#cfcfcf;
+     height: 30px;
+     border-width: 1px;
+
+ }
+.radio{
+    padding-left: 5px;
+   padding-top: 9px;
+ 
+   font-size: 14px;
+    color: #666;
+    border: solid;
+    border-color:#cfcfcf;
+    height: 30px;
+    border-width: 1px;
+
+ }
+ .radio:hover{
+    cursor: pointer;
+    color: #084c84;
+}
+ .deps{
+    padding-left: 5px;
+    padding-top: 9px;
+  
+    font-size: 14px;
+     color: #666;
+     border: solid;
+     border-color:#cfcfcf;
+     height: 30px;
+     border-width: 1px;
+ }
+ .deps:hover{
+    cursor: pointer;
+    color: #084c84;
+}
+ .admi{
+    padding-left: 5px;
+    padding-top: 9px;
+  
+    font-size: 14px;
+     color: #666;
+     border: solid;
+     border-color:#cfcfcf;
+     height: 30px;
+     border-width: 1px;
+ }
+ .admi:hover{
+    cursor: pointer;
+    color: #084c84;
+}
+ .exam{
+    padding-left: 5px;
+    padding-top: 9px;
+  
+    font-size: 14px;
+     color: #666;
+     border: solid;
+     border-color:#cfcfcf;
+     height: 30px;
+     border-width: 1px;
+ }
+ .exam:hover{
+    cursor: pointer;
+    color: #084c84;
+}
+ .resea{
+    padding-left: 5px;
+    padding-top: 9px;
+  
+    font-size: 14px;
+     color: #666;
+     border: solid;
+     border-color:#cfcfcf;
+     height: 30px;
+     border-width: 1px;
+ }
+ .resea:hover{
+    cursor: pointer;
+    color: #084c84;
+}
+ .ccss{
+    padding-left: 5px;
+    padding-top: 9px;
+  
+    font-size: 14px;
+     color: #666;
+     border: solid;
+     border-color:#cfcfcf;
+     height: 30px;
+     border-width: 1px;
+ }
+ .ccss:hover{
+    cursor: pointer;
+    color: #084c84;
+}
+ .dista{
+    padding-left: 5px;
+    padding-top: 9px;
+  
+    font-size: 14px;
+     color: #666;
+     border: solid;
+     border-color:#cfcfcf;
+     height: 30px;
+     border-width: 1px;
+ }
+ .dista:hover{
+    cursor: pointer;
+    color: #084c84;
+}
+ .cdc{
+    padding-left: 5px;
+    padding-top: 9px;
+  
+    font-size: 14px;
+     color: #666;
+     border: solid;
+     border-color:#cfcfcf;
+     height: 30px;
+     border-width: 1px;
+ }
+ .cdc:hover{
+    cursor: pointer;
+    color: #084c84;
+}
+ .emmrc{
+    padding-left: 5px;
+    padding-top: 9px;
+  
+    font-size: 14px;
+     color: #666;
+     border: solid;
+     border-color:#cfcfcf;
+     height: 30px;
+     border-width: 1px;
+ }
+ .emmrc:hover{
+    cursor: pointer;
+    color: #084c84;
+}
+ .nss{
+    padding-left: 5px;
+    padding-top: 9px;
+  
+    font-size: 14px;
+     color: #666;
+     border: solid;
+     border-color:#cfcfcf;
+     height: 30px;
+     border-width: 1px;
+ }
+ .nss:hover{
+    cursor: pointer;
+    color: #084c84;
+}
+ .mhrd{
+    padding-left: 5px;
+    padding-top: 9px;
+  
+    font-size: 14px;
+     color: #666;
+     border: solid;
+     border-color:#cfcfcf;
+     height: 30px;
+     border-width: 1px;
+ }
+ .mhrd:hover{
+    cursor: pointer;
+    color: #084c84;
+}
+ .ugc{
+    padding-left: 5px;
+    padding-top: 9px;
+  
+    font-size: 14px;
+     color: #666;
+     border: solid;
+     border-color:#cfcfcf;
+     height: 30px;
+     border-width: 1px;
+ }
+ .ugc:hover{
+    cursor: pointer;
+    color: #084c84;
+}
+ .campus{
+    padding-left: 5px;
+    padding-top: 9px;
+  
+    font-size: 14px;
+     color: #666;
+     border: solid;
+     border-color:#cfcfcf;
+     height: 30px;
+     border-width: 1px;
+ }
+ .campus:hover{
+    cursor: pointer;
+    color: #084c84;
+}
+ .affili{
+    padding-left: 5px;
+    padding-top: 9px;
+  
+    font-size: 14px;
+     color: #666;
+     border: solid;
+     border-color:#cfcfcf;
+     height: 30px;
+     border-width: 1px;
+ }
+ .affili:hover{
+    cursor: pointer;
+    color: #084c84;
+}
+ .suvega{
+ padding-left: 5px;
+    padding-top: 9px;
+  padding-bottom: 9.9px;
+    font-size: 14px;
+     color: #666;
+     border: solid;
+     border-color:#cfcfcf;
+     height: 30px;
+     border-width: 1px;
+ }
+ .suvega:hover{
+    cursor: pointer;
+    color: #084c84;
+}
+ .mainresources{
+    width: 100%;
+    display: flex;
+ }
+
+ .line3{
+    margin-left: -769px;
+    border-bottom: solid;
+    border-width: 2px;
+    border-color: rgb(237, 237, 237);
+    
+    margin-top:-55px;
+    
+    
+    height: 70px;
+ }
+ .h41{
+    font-family: arial;
+    margin-left: -718px;
+ }
+
+ .researchheighight{
+   
+    height: 240px;
+    display: flex;
+    margin-left: -765px;
+    margin-top: 30px;
+
+        
+        
+ }
+ .aa1{
+width: 27%;
+ }
+ .a1{
+    margin-left: 10px;
+    border: solid;
+    border-color:   #666;
+ }
+ .ap{    color: #205f93;
+    font-size: 13px;
+    font-family: arial;
+    margin-left: 70px;
+    font-weight: bold;
+ }
+
+ .b1{
+    margin-left: 80px;
+border: solid;
+border-color:   #666;
+ }
+.bb1{
+    width: 32%;
+}
+.bp{    color: #205f93;
+    font-size: 13px;
+    font-family: arial;
+    margin-left: 190px;
+    font-weight: bold;
+}
+
+ .c1{
+    margin-left: 100px;
+    border: solid;
+border-color:   #666;
+ }
+ .cc1{
+   
+    
+ }
+ .cp1{    color: #205f93;
+    font-size: 13px;
+    font-family: arial;
+    width: 83%;
+    font-weight: bold;
+    margin-left: 80px;
+ }
+
+ .recentacheivement{
+    display: flex;
+    height: 240px;
+
+    margin-left: -765px;
+    margin-top: 30px;
+ }
+ .dd1{
+    width: 27%;
+ }
+ .dimg{
+    margin-left: 10px;
+    border: solid;
+    border-color:   #666;
+ }
+ .dp{    color: #205f93;
+    font-size: 12px;
+    font-family: arial;
+    margin-left: 60px;
+    font-weight: bold;
+ }
+ .ee1{
+    width: 32%;
+ }
+ .eimg{
+    margin-left: 80px;
+    border: solid;
+    border-color:   #666;
+ }
+ .ep{    color:#205f93;
+    font-size: 13px;
+    font-family: arial;
+    width: 100%;
+    margin-left: 90px;
+    font-weight: bold;
+    
+
+ }
+ .ff1{
+
+ }
+ .fimg{
+    margin-left: 100px;
+    border: solid;
+border-color:   #666;
+ }
+ .fp{    color: #084c84;
+    font-size: 13px;
+    font-family: arial;
+    
+ font-weight: bold;
+    margin-left: 170px;
+ }
+
+ .fotter{
+    
+    width: 100%;
+    
+    height: 450px;
+    margin-left: -898px;
+    padding-left: 983px;
+ 
+ }
+ .highereducation{ 
+
+   background-color:#0a3966;
+    
+    margin-left: -1000px ;
+   border-bottom: solid;
+   border-color: rgb(101, 107, 108);
+   border-width: 1px;
+ }
+ .higher1{
+    margin-top: 20px;
+margin-left: 120px;
+ }
+ .soaft{
+    margin-top: 20px;
+margin-left: 30px;
+ }
+ .covid{
+    margin-top: 20px;
+    margin-left: 30px;
+ }
+.keralastate{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.teradmition{
+    width: 100%;
+    display: flex;
+    color: #6991b7;
+ font-family: Arial;
+ font-size:13px ;
+}
+.administration{
+    color: #6991b7;
+    margin-left: 80px;
+    margin-top: 70px;
+
+}
+
+.administration1{
+   font-size: 14px;
+   font-weight: bold;
+   color: rgb(240, 240, 240); 
+}
+.penas{
+   
+    padding-top: 30px;
+}
+.penas:hover{
+    color: white;
+
+}
+
+.employ{
+    padding-top: 10px;
+}
+.employ:hover{
+    color: white;
+
+}
+
+.Digital{
+    padding-top: 10px;
+}
+.Digital:hover{
+    color: white;
+
+}
+.bmpl{
+    padding-top: 10px;
+}
+.bmpl:hover{
+    color: white;
+
+}
+.orderunder{
+    padding-top: 10px;
+}
+.orderunder:hover{
+    color: white;
+
+}
+.Proforma{
+    padding-top: 10px;
+}
+.Proforma:hover{
+    color: white;
+
+}
+ .stdcor{
+    
+ }
+
+.stdcorner{ color: #6991b7;
+    margin-left: 400px;
+    margin-top: -224px;
+}
+.stdcorner1{
+    font-size: 14px;
+    font-weight: bold;
+    color: rgb(240, 240, 240);
+}
+.formdownload{
+    padding-top: 30px;
+}
+.formdownload:hover{
+    color: white;
+
+}
+.stdunion{
+    padding-top: 10px;
+}
+.stdunion:hover{
+    color: white;
+
+}
+.scst{
+    padding-top: 10px;
+}
+.scst:hover{
+    color: white;
+
+}
+.onlinecertificate{
+    padding-top: 10px;
+}
+.onlinecertificate:hover{
+    color: white;
+
+}
+.originaldegree{
+    padding-top: 10px;
+}
+.originaldegree:hover{
+    color: white;
+
+}
+.Condonation{
+    padding-top: 10px;
+}
+.Condonation:hover{
+    color: white;
+
+}
+.general{ color: #6991b7;
+    margin-left: 700px;
+    
+    margin-top: -223px;
+   
+}
+.general1{
+    font-size: 14px;
+    font-weight: bold;
+    color: rgb(240, 240, 240);
+}
+.faq{
+    padding-top: 30px;
+}
+.faq:hover{
+    color: white;
+
+}
+.tendersandq{
+    padding-top: 10px;
+}
+.tendersandq:hover{
+    color: white;
+
+}
+
+.Vacanciesandcareers{
+    padding-top: 10px;
+}
+.Vacanciesandcareers:hover{
+    color: white;
+
+}
+.rightto{
+    padding-top: 10px;
+}
+.rightto:hover{
+    color: white;
+
+}
+.usefullink{
+    padding-top: 10px;
+}
+.usefullink:hover{
+    color: white;
+
+}
+.Endowmentapplication{
+    padding-top: 10px;
+}
+.Endowmentapplication:hover{
+    color: white;
+
+}
+
+.connectus{
+ margin-left: 995px;
+ margin-top: -223px;
+ font-size: 14px;
+ font-weight: bold;
+ color: rgb(240, 240, 240);
+ font-family: arial;
+
+}
+.facebook{
+    margin-left: 995px;
+    margin-top: -223px;
+}
+.facebook:hover{
+    background-color: yellow;
+    box-shadow: #666;
+   
+}
+.insta{
+    margin-top: ;
+}
+.insta:hover{
+    background-color: yellow;
+    box-shadow: #666;
+   
+}
+
+.youtube:hover{
+    background-color: yellow;
+    box-shadow: #666;
+   
+}
+.haii{
+    color:#113c64;
+    margin-left: 995px;
+    margin-top: 150px;
+}
+
+.fotter2{
+   
+    background-color:#113c64;
+    width: 99.8;
+    height: 10px;
+    border: solid;
+    border-color: rgb(62, 62, 62);
+    border-width: 1px;
+}
+.fotter3{
+   
+    background-color:#032c53;
+    width: 99.8%;
+    height: 70px;
+    
+}
+
+.copyright{
+    color: #365776;
+    font-family: arial;
+ padding-top: 20px;
+    margin-left: 125px;
+width: 24%;
+font-size: 12px;
+
+}
+.Poweredby{
+    margin-top:-40px;
+    font-family: arial;
+    font-size: 12px;
+    margin-left: 890px;
+    color: #365776;
+}
+
+
+
+
+
+
